@@ -2,7 +2,7 @@
  
 static void sort(void)
 {
-    // TODO: add radix sort algorithm here
+    //Algoritm
 }
  
 int main()
